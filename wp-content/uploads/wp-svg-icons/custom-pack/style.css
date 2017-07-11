@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'inrr';
+  src:  url( 'http://gdgirlshostel.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/inrr.eot?w4qu3u');
+  src:  url( 'http://gdgirlshostel.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/inrr.eot?w4qu3u#iefix') format('embedded-opentype'),
+    url( 'http://gdgirlshostel.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/inrr.ttf?w4qu3u') format('truetype'),
+    url( 'http://gdgirlshostel.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/inrr.woff?w4qu3u') format('woff'),
+    url( 'http://gdgirlshostel.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/inrr.svg?w4qu3u#inrr') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="wp-svg-custom-"], [class*=" wp-svg-custom-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'inrr' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wp-svg-custom-inr:before {
+  content: "\e900";
+}
